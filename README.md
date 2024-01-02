@@ -1,6 +1,8 @@
 # Apress Source Code
 
-This repository accompanies [*Basic Math for Game Development with Unity 3D: A Beginner's Guide to Mathematical Foundations*](https://www.link.springer.com/book/10.1007/9781484298848) by Kelvin Sung and Gregory Smith(Apress, 2023).
+This repository accompanies [*Basic Math for Game Development with 
+Unity 3D: A Beginner's Guide to 
+Mathematical Foundations*](https://www.link.springer.com/book/10.1007/978-1-4842-9885-5) by Kelvin Sung and Gregory Smith(Apress, 2023).
 
 [comment]: #cover
 ![Cover image](9781484298848.jpg)
